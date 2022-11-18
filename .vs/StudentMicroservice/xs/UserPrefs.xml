@@ -1,35 +1,29 @@
 ﻿<Properties StartupConfiguration="{A4788253-6FC5-4AE1-AC66-1630448E9B22}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.StudentMicroservice PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/StudentController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentMicroservice.csproj">
     <Files>
       <File FileName="Model/Student.cs" />
       <File FileName="Controllers/StudentController.cs" Line="24" Column="1" />
       <File FileName="Service/IStudentRepository.cs" />
       <File FileName="Service/StudentRepository.cs" />
-      <File FileName="Properties/launchSettings.json" Line="13" Column="32" />
+      <File FileName="Properties/launchSettings.json" />
       <File FileName="Program.cs" />
+      <File FileName="StudentMicroservice.csproj" Line="10" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StudentMicroservice" expanded="True">
-            <Node name="StudentMicroservice" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="StudentController.cs" selected="True" />
-              </Node>
-              <Node name="Model" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Service" expanded="True" />
-            </Node>
+            <Node name="StudentMicroservice" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StudentMicroservice PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
