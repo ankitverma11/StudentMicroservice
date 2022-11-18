@@ -10,11 +10,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("StudentMicroservice")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ABK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("StudentMicroservice")]
+[assembly: System.Reflection.AssemblyProductAttribute("Student Microservice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentMicroservice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

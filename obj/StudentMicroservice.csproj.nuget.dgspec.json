@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/ankitkumar/Projects/StudentMicroservice/StudentMicroservice.csproj",
-        "projectName": "StudentMicroservice",
+        "projectName": "StuMicroID",
         "projectPath": "/Users/ankitkumar/Projects/StudentMicroservice/StudentMicroservice.csproj",
         "packagesPath": "/Users/ankitkumar/.nuget/packages/",
         "outputPath": "/Users/ankitkumar/Projects/StudentMicroservice/obj/",
