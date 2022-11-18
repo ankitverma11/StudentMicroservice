@@ -11,6 +11,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <IsPackable>true</IsPackable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <DockerComposeProjectPath>docker-compose.dcproj</DockerComposeProjectPath>
+    <UserSecretsId>92197e42-d38b-47f8-aa85-3ff26d4e99b3</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

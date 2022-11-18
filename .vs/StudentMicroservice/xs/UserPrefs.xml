@@ -1,15 +1,14 @@
-﻿<Properties StartupConfiguration="{A4788253-6FC5-4AE1-AC66-1630448E9B22}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StudentMicroservice.csproj">
+﻿<Properties StartupConfiguration="{769A2A23-2396-4A5C-A342-B9C85FEC184B}|Default">
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Model/Student.cs" />
-      <File FileName="Controllers/StudentController.cs" Line="24" Column="1" />
+      <File FileName="Controllers/StudentController.cs" Line="22" Column="1" />
       <File FileName="Service/IStudentRepository.cs" />
       <File FileName="Service/StudentRepository.cs" />
       <File FileName="Properties/launchSettings.json" />
-      <File FileName="Program.cs" />
-      <File FileName="StudentMicroservice.csproj" Line="10" Column="32" />
+      <File FileName="Program.cs" Line="27" Column="1" />
+      <File FileName="StudentMicroservice.csproj" Line="8" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,9 +20,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.StudentMicroservice PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StudentMicroservice PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

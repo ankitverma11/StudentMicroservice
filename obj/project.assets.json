@@ -242,6 +242,7 @@
         "net6.0"
       ],
       "sources": {
+        "/Users/ankitkumar/Projects/StudentMicroservice/bin/Debug": {},
         "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
